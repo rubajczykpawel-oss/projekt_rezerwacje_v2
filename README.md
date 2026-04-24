@@ -125,7 +125,7 @@ hasło: haslo123
 
 ## 🧑‍💻 Autor
 
-Projekt wykonany w ramach zajęć z programowania / baz danych.
+Projekt wykonany w ramach zajęć z  baz danych.
 
 ---
 
